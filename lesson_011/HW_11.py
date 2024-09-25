@@ -91,9 +91,5 @@ book_3 = (book_1 + book_2) / 2
 purchase = book_1 + book_2 + book_3
 print(int(purchase))
 
-#2
-book_1, book_2, book_3 = 8, 8 + 2, (8 + (8 + 2)) / 2
-purchase = int(book_1 + book_2 + book_3)
-print(purchase)
 
 
