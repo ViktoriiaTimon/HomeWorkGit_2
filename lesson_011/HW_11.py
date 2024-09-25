@@ -71,12 +71,6 @@ absent_children = 3
 present_children = children - absent_children
 print(int(present_children))
 
-#2
-boys = 24
-girls = boys / 2
-absent_children = 3
-children = boys + boys / 2 - absent_children
-print(int(children))
 
 # task 10
 """
